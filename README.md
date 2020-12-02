@@ -2,4 +2,5 @@
 
 [![Wency's github stats](https://github-readme-stats.vercel.app/api?username=deadmantfa)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadmantfa)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadmantfa)](https://github.com/anuraghazra/github-readme-stats)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12173715755&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=12173715755&redirect=true)
