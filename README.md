@@ -2,4 +2,4 @@
 
 [![Wency's github stats](https://github-readme-stats.vercel.app/api?username=deadmantfa)](https://github.com/deadmantfa/deadmantfa)
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/12173715755)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12173715755&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=12173715755&redirect=true)
