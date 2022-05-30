@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadmantfa&theme=onedark" alt="deadmantfa" /></a> </p>
-<p align="right"><a href="https://app.daily.dev/deadmantfa"><img src="https://github.com/deadmantfa/deadmantfa/blob/main/devcard.svg" width="400" alt="Wenceslaus Dsilva's Dev Card"/></a></p>
+
 
 - 🔭 I’m currently working on [Audiobook Maker](https://github.com/deadmantfa/audiobookmaker)
 
@@ -46,3 +46,5 @@
 | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@deadmantfa&layout=compact&theme=material-palenight)](https://github.com/deadmantfa) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deadmantfa&repo=yii2-advanced-template-starter&theme=material-palenight&layout=compact)](https://github.com/deadmantfa/yii2-advanced-template-starter) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12173715755&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=12173715755&redirect=true) |
 | --- | --- | --- |
 
+|<p align="center"><a href="https://app.daily.dev/deadmantfa"><img src="https://github.com/deadmantfa/deadmantfa/blob/main/devcard.svg" width="400" alt="Wenceslaus Dsilva's Dev Card"/></a></p>|
+| --- |
