@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadmantfa&theme=onedark" alt="deadmantfa" /></a> </p>
-
+<p align="right"><a href="https://app.daily.dev/deadmantfa"><img src="https://github.com/deadmantfa/deadmantfa/blob/main/devcard.svg" width="400" alt="Wenceslaus Dsilva's Dev Card"/></a></p>
 
 - 🔭 I’m currently working on [Audiobook Maker](https://github.com/deadmantfa/audiobookmaker)
 
