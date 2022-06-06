@@ -1,0 +1,28 @@
+name: Skyline
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  skyline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Skyline
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.svg
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2022
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
+
+          
